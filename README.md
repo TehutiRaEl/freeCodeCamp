@@ -1,3 +1,6 @@
+<!-- Sovereign Hive Academy | Full-stack developer curriculum and 50+ free certifications | Queen: THEHIVE :8080 -->
+> **Sovereign Hive Academy** — Full-stack developer curriculum and 50+ free certifications powering the hive's education layer.
+
 [![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
