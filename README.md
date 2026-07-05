@@ -1,6 +1,8 @@
 <!-- Sovereign Hive Academy | Full-stack developer curriculum and 50+ free certifications | Queen: THEHIVE :8080 -->
 > **Sovereign Hive Academy** — Full-stack developer curriculum and 50+ free certifications powering the hive's education layer.
 
+> This repository participates in the Sovereign Hive governance convention defined upstream in [TehutiRaEl/THEHIVE](https://github.com/TehutiRaEl/THEHIVE/blob/claude/session-continuation-owj5wr/docs/GOVERNANCE.md). As a documentation-only repository it does not carry CI gates or a local role catalog.
+
 [![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
